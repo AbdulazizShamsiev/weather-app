@@ -4,7 +4,7 @@
 
 Hava durumunu gösteren basit javascript uygulaması
 
-<a href='https://openweathermap.org/current'>OpenWeatherMapApi</a> kullanarak yaptığım Ilk JavaScript proje
-Uygulamadaki hava durumunu gösteren fotoğraflar değişiyor yani yağmurlu hava yağmurun açık havada güneşin resmini görebilirsiniz
-Ayrıca ara kısmında istediğiniz şehirin hava durumunu ögrenebilirsiniz
+<a href='https://openweathermap.org/current'>OpenWeatherMapApi</a> kullanarak yaptığım Ilk JavaScript proje.
+Uygulamadaki hava durumunu gösteren fotoğraflar değişiyor yani yağmurlu hava yağmurun açık havada güneşin resmini görebilirsiniz. <br>
+Ayrıca ara kısmında istediğiniz şehirin hava durumunu ögrenebilirsiniz.   
 <a href='https://js-hava-durumu.netlify.app/'>işte karşınızda website</a>
